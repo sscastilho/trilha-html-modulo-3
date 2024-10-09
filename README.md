@@ -13,6 +13,7 @@ Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quisere
 Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
 
 ## Links úteis
+- [Página do Projeto](https://sscastilho.github.io/trilha-html-modulo-3/)
 - [Download do NVDA](https://www.nvaccess.org/download/)
 - [Wikipedia](https://pt.wikipedia.org/)
 
