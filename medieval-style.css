@@ -1,0 +1,88 @@
+body {
+    background: url('assets/images/medieval-background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+    font-family: 'MedievalSharp', cursive;
+    margin: 0;
+    padding: 0;
+}
+
+.header, .footer {
+    background-color: #4B2C20;
+    padding: 10px;
+    text-align: center;
+}
+
+.header .logo img {
+    border: 3px solid #fff;
+}
+
+.bar {
+    background-color: #6D4C41;
+    height: 5px;
+}
+
+.sidebar {
+    background-color: #4B2C20;
+    padding: 15px;
+}
+
+.sidebar h2 {
+    border-bottom: 2px solid #fff;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar li {
+    margin-bottom: 10px;
+}
+
+.sidebar a {
+    color: #FFF;
+    text-decoration: none;
+}
+
+.main {
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.main h1, .main h2 {
+    border-bottom: 2px solid #fff;
+}
+
+.anchors {
+    background-color: #4B2C20;
+    padding: 15px;
+}
+
+.anchors ul {
+    list-style: none;
+    padding: 0;
+}
+
+.anchors li {
+    margin-bottom: 10px;
+}
+
+.anchors a {
+    color: #FFF;
+    text-decoration: none;
+}
+
+figure {
+    margin: 20px 0;
+    text-align: center;
+}
+
+figure img {
+    border: 3px solid #fff;
+}
+
+figcaption {
+    margin-top: 5px;
+    font-style: italic;
+}
